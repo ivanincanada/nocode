@@ -1,0 +1,24 @@
+# Nothing as a Service. 
+# Auto-scalable fully redundant HA Deployment of nocode
+# 
+# In order to work correctly you must remove all peripherials from your 
+# development machine or server. 
+#
+# Supports full deployment on no infrastructure
+#
+# Requirements:
+# RAM: 0
+# CPU: Removed
+# HDD: Removed
+# PSU: None
+# UPS: None
+# ETH: None
+#
+# O/S: GNU/Nocode
+#
+# Instructions
+# After prepairing machine, plug out keyboard. Type aimlessly and randomly until satified, at which time you should see nothing on your screen.
+# At this point, you must sit and do nothing and continue to watch nocode boot process until you are eventually fed up. 
+#
+# If successful you will have done nothing on no infrastructure. 
+# If fail, does your system meet Requirements above?
